@@ -11,10 +11,13 @@
 I'm Walk, i like pizza and pasta.
 
 ## Things i like to work in.
-
-- [Technology/Tool 1]
-- [Technology/Tool 2]
-- [Technology/Tool 3]
-- ...
+<div>
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=lua" />
+</div>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
