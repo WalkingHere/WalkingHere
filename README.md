@@ -6,12 +6,15 @@
 
 <h3 align="center">I think I hate this shit.</h3>
 
-<br/>
+I'm [Your Name], a [Your Role/Title] who enjoys coding in:
 
-<h2 align="center"></h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal"
---------------------------------------------------------------------------------------------------------------------------------------------
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,css,html,lua" /><br>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 🛠️ Tools and Technologies
+
+- [Technology/Tool 1]
+- [Technology/Tool 2]
+- [Technology/Tool 3]
+- ...
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
