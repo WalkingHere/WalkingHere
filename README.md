@@ -30,6 +30,34 @@
   <img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
+<h1 align="center">
+         ____
+        (____)
+        /____\
+        |___.-~-.-~-.
+        |__(  __|__  )_
+        |/ \/\_/^\._)/ \
+        (  (__{(@)}\_)  )
+        |\_/ (/(_)\_))_/
+  ______|_(  (__)_)_/ )
+ /_________\_/  |  \_/
+|/   /' |\  /'-~'~-'\|
+    |  (| \/ |
+    |   `\   |
+     `\  `\  |    ___
+       `\  `\|  /' ..'>
+      ___`\  `\: ,' /'
+    /' _ /''`\  '__'
+   < .'./'   |  |
+    `~' |    |  |
+        |    |/'
+        |    |
+        |    |
+        |    |
+         \  /
+          \/
+</h1>
+
 <hr/>
 
 
