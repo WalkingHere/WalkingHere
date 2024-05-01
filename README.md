@@ -8,10 +8,11 @@
 
 <h3 align="center">I think I hate this shit.</h3>
 
-I'm Walk, i like pizza and pasta.
+<p align="center">I'm Walk, and I enjoy pizza and pasta.</p>
 
-## Things i like to work in.
-<div style="display: flex; flex-direction: column; align-items: center;">
+## Things I like to work in.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://skillicons.dev/icons?i=unity" />
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=cpp" />
@@ -19,4 +20,5 @@ I'm Walk, i like pizza and pasta.
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=lua" />
 </div>
+
 
