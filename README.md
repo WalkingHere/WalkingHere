@@ -21,20 +21,13 @@
     <img src="https://skillicons.dev/icons?i=lua" />
 </div>
 
-You can listen to my favorite song on Spotify [here](https://yourusername.github.io/yourrepository/spotify.html).
-
-
-
-<br/>
 <hr/>
 
 <div align="center">
-  <h2>I Feel sick.</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2>I Feel Sick</h2>
+  <img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
+
 
