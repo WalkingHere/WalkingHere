@@ -11,7 +11,7 @@
 I'm Walk, i like pizza and pasta.
 
 ## Things i like to work in.
-<div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=unity" />
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=cpp" />
@@ -20,4 +20,3 @@ I'm Walk, i like pizza and pasta.
     <img src="https://skillicons.dev/icons?i=lua" />
 </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
