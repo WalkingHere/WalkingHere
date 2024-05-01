@@ -21,6 +21,9 @@
     <img src="https://skillicons.dev/icons?i=lua" />
 </div>
 
+<iframe src="https://open.spotify.com/embed/track/SPOTIFY_SONG_URI" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
 <br/>
 <hr/>
 
