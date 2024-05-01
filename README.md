@@ -8,11 +8,9 @@
 
 <h3 align="center">I think I hate this shit.</h3>
 
-I'm [Your Name], a [Your Role/Title] who enjoys coding in:
+I'm Walk, i like pizza and pasta.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## 🛠️ Tools and Technologies
+## Things i like to work in.
 
 - [Technology/Tool 1]
 - [Technology/Tool 2]
