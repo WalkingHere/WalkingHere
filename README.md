@@ -11,7 +11,7 @@
 I'm Walk, i like pizza and pasta.
 
 ## Things i like to work in.
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=unity" />
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=cpp" />
