@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Fprofile%2FTofin&psig=AOvVaw34G6BjDPWVD3YB6gMssCtN&ust=1714688045068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCO5PW87YUDFQAAAAAdAAAAABAE)
+![Banner](https://cdn.myanimelist.net/images/about_me/main_visual/10505436-ca8eb729-edcd-472a-b128-27989aec4086.jpg?t=1689945898)
 
 
 
