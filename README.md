@@ -1,3 +1,5 @@
+![Banner](link_to_your_banner_image)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WalkingHere.WalkingHere" />
 
 <h1 align="center">
