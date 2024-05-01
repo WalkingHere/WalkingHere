@@ -10,7 +10,7 @@
 
 <p align="center">I'm Walk, and I enjoy pizza and pasta.</p>
 <p align="center">I make cool stuff for games and their developers hate me for it.</p>
-<p align="center">Hm.</p>
+<p align="center">I'm Not Real.</p>
 
 ## Things I like to work in.
 
