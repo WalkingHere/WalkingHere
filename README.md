@@ -1,5 +1,6 @@
+<center>
 ![Banner](https://cdn.myanimelist.net/images/about_me/main_visual/10505436-ca8eb729-edcd-472a-b128-27989aec4086.jpg?t=1689945898)
-
+<center>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WalkingHere.WalkingHere" />
