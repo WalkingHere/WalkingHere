@@ -9,6 +9,8 @@
 <h3 align="center">I think I hate this shit.</h3>
 
 <p align="center">I'm Walk, and I enjoy pizza and pasta.</p>
+<p align="center">I make cool stuff for games and their developers hate me for it.</p>
+<p align="center">Hm.</p>
 
 ## Things I like to work in.
 
