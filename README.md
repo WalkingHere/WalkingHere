@@ -7,7 +7,7 @@
 </h1>
 
 <<div align="center">
-  <iframe src="https://open.spotify.com/embed/track/SPOTIFY_SONG_ID" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <p align="center">Listen to my favorite song on Spotify: <a href="https://open.spotify.com/track/SPOTIFY_SONG_ID">Song Name</a></p>
 </div>
 
 
