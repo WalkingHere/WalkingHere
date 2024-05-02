@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&size=30&lines=One+Day+The+World+Will+End" />
 </h1>
 
-<h3 align="center">I think I hate this shit.</h3>
+<h3 align="center" style="font-size: 30px;">I think I hate this shit.</h3>
 
 
 <p align="center">I'm Walk.</p>
