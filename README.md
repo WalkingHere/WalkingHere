@@ -10,10 +10,10 @@
     <p>I enjoy pizza and pasta.</p>
     <p>Not very talkative.</p>
 
-    <div style="margin-top: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 60%; margin: 0 auto;">
-      <h2>Things I like to work in.</h2>
+    
+    <h2>Things I like to work in.</h2>
 
-      <div style="margin-top: 10px;">
+      <div align="center">
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</div>
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The only way to do great work is to love what you do." - Steve Jobs</div>
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Innovation distinguishes between a leader and a follower." - Steve Jobs</div>
@@ -24,8 +24,7 @@
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Strive not to be a success, but rather to be of value." - Albert Einstein</div>
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</div>
         <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">"Your time is limited, don't waste it living someone else's life." - Steve Jobs</div>
-      </div>
-    </div>
+     <hr>
   </div>
 
   <hr>
