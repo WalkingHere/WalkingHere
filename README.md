@@ -8,7 +8,7 @@
 
 <h3 align="center">I think I hate this shit.</h3>
 
-<p align="center">I'm Walk, and I enjoy pizza and pasta.</p>
+<p align="center">I'm Walk</p>
 <p align="center">I make cool stuff for games and their developers hate me for it.</p>
 <p align="center">I'm Not Real.</p>
 
@@ -29,5 +29,9 @@
   <h2>I Feel Sick</h2>
   <img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+
+<h1 align="center">
+  <img src="https://images.wallpaperscraft.com/image/single/girl_halo_wings_1020631_1280x720.jpg" alt="Banner">
+</h1>
 
 <hr/>
