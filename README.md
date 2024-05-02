@@ -6,19 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&size=30&lines=One+Day+The+World+Will+End" />
 </h1>
 
-<h3 align="center" style="font-size: 30px;">I think I hate this shit.</h3>
-
+<div align="center">
+  <h3 style="font-size: 30px;">I think I hate this shit.</h3>
+</div>
 
 <p align="center">I'm Walk.</p>
 <p align="center">I enjoy pizza and pasta.</p>
-<p align="center">not very talkative.</p>
-<p align="center"></p>
-<p align="center"></p>
-<p align="center"></p>
-<p align="center"></p>
-<p align="center"></p>
-<p align="center"></p>
-<p align="center"></p>
+<p align="center">Not very talkative.</p>
 
 ## Things I like to work in.
 
@@ -37,6 +31,8 @@
   <h2>I Feel Sick</h2>
   <img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+
+<hr/>
 
 <div align="center">
   <img src="https://images.wallpaperscraft.com/image/single/girl_halo_wings_1020631_1280x720.jpg" alt="Banner">
