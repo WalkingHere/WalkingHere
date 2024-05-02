@@ -8,7 +8,7 @@
   <div>
  ╔═════════════════════════════════╗
     <p>I'm Walk.</p>
-    <p>I enjoy pizza and pasta.</p>
+    <p>I make funny stuff for games and their developers hate me for it.</p>
     <p>Not very talkative.</p>
  ╚═════════════════════════════════╝
 
