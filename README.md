@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <h3 style="font-size: 40px;">I think I hate this shit.</h3>
+  <h3 style="font-size: 400px;">I think I hate this shit.</h3>
 </div>
 
 <p align="center">I'm Walk.</p>
