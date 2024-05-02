@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <iframe src="https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<h3[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=bf13b3&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)</h3>
 </div>
 
 <p align="center">I'm Walk.</p>
