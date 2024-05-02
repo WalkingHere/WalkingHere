@@ -5,19 +5,27 @@
 
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=bf13b3&bar_color_cover=true" alt="spotify-github-profile"></a>
 
-  <p>I'm Walk.</p>
-  <p>I enjoy pizza and pasta.</p>
-  <p>Not very talkative.</p>
+  <div>
+    <p>I'm Walk.</p>
+    <p>I enjoy pizza and pasta.</p>
+    <p>Not very talkative.</p>
 
-  <h2>Things I like to work in.</h2>
+    <div style="margin-top: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 60%; margin: 0 auto;">
+      <h2>Things I like to work in.</h2>
 
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=unity">
-    <img src="https://skillicons.dev/icons?i=cs">
-    <img src="https://skillicons.dev/icons?i=cpp">
-    <img src="https://skillicons.dev/icons?i=css">
-    <img src="https://skillicons.dev/icons?i=html">
-    <img src="https://skillicons.dev/icons?i=lua">
+      <div style="margin-top: 10px;">
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The only way to do great work is to love what you do." - Steve Jobs</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Innovation distinguishes between a leader and a follower." - Steve Jobs</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"You miss 100% of the shots you don't take." - Wayne Gretzky</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Life is what happens when you're busy making other plans." - John Lennon</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Believe you can and you're halfway there." - Theodore Roosevelt</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Strive not to be a success, but rather to be of value." - Albert Einstein</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</div>
+        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">"Your time is limited, don't waste it living someone else's life." - Steve Jobs</div>
+      </div>
+    </div>
   </div>
 
   <hr>
