@@ -10,10 +10,16 @@
     <p>I enjoy pizza and pasta.</p>
     <p>Not very talkative.</p>
 
-    
-    <h2>Things I like to work in.</h2>
+## Things I like to work in.
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=lua" />
+</div>
 
-  <hr>
 
   <div>
     <img src="https://images.wallpaperscraft.com/image/single/girl_halo_wings_1020631_1280x720.jpg" alt="Banner">
