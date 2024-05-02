@@ -16,7 +16,10 @@
 <p align="center">I enjoy pizza and pasta.</p>
 <p align="center">Not very talkative.</p>
 
-<p align="center">You only got to fuck up once... Be a little slow, be a little late, just once. How you ain't gonna never be slow? Never be late? You can't plan for that. Thats life.</p>
+<p align="center">You only got to fuck up once 
+Be a little slow, be a little late, just once.
+ How you ain't gonna never be slow? Never be late?
+ You can't plan for that. Thats life.</p>
 
 
 
