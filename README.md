@@ -8,13 +8,17 @@
 
 <h3 align="center">I think I hate this shit.</h3>
 
-<p align="center">╭────────────────────────────────────────────────────────────────╮
-                  │                            I'm Walk                            │
-                  │I make cool stuff for games and their developers hate me for it.│
-                  ╰────────────────────────────────────────────────────────────────╯
-<p align="center">
 
-
+<p align="center">I'm Walk.</p>
+<p align="center">I enjoy pizza and pasta.</p>
+<p align="center">not very talkative.</p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
 
 ## Things I like to work in.
 
