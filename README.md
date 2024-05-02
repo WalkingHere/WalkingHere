@@ -30,8 +30,8 @@
   <img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h1 align="center">
+<div align="center">
   <img src="https://images.wallpaperscraft.com/image/single/girl_halo_wings_1020631_1280x720.jpg" alt="Banner">
-</h1>
+</div>
 
 <hr/>
