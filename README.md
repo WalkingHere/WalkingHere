@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&size=30&lines=One+Day+The+World+Will+End" />
 </h1>
 
-<div align="center"
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=bf13b3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)]]
 </div>
 
 
