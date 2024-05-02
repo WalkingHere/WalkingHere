@@ -7,7 +7,7 @@
 </h1>
 
 <<div align="center">
-  <p align="center">Listen to my favorite song on Spotify: <a href="https://open.spotify.com/track/SPOTIFY_SONG_ID">Song Name</a></p>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=bf13b3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 
