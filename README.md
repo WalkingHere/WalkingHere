@@ -21,7 +21,7 @@
 <p>You can't plan for that. Thats life.</p>
 ╚═════════════════════════════════╝
 
-
+╔═════════════════════════════════╗
 ## Things I like to work in.
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://skillicons.dev/icons?i=unity" />
@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=lua" />
 </div>
-
+╚═════════════════════════════════╝
 
   <div>
     <img src="https://images.wallpaperscraft.com/image/single/girl_halo_wings_1020631_1280x720.jpg" alt="Banner">
