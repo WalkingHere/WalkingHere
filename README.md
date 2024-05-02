@@ -6,9 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&size=30&lines=One+Day+The+World+Will+End" />
 </h1>
 
-<div align="center">
-  <h3 style="font-size: 400px;">I think I hate this shit.</h3>
+<<div align="center">
+  <iframe src="https://open.spotify.com/embed/track/SPOTIFY_SONG_ID" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
+
 
 <p align="center">I'm Walk.</p>
 <p align="center">I enjoy pizza and pasta.</p>
