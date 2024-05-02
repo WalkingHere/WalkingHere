@@ -14,10 +14,11 @@
 
 ╔═════════════════════════════════╗
 <div>
-    <p>I'm Walk.</p>
-    <p>I enjoy pizza and pasta.</p>
-    <p>Not very talkative.</p>
-    <p>Not very talkative.</p>
+  <p>You only got to fuck up once</p>
+<p>Be a little slow, be a little late</p>
+         <p>just once.</p>
+<p>How you ain't never gonna be slow? Never be late?</p>
+<p>You can't plan for that. Thats life.</p>
 ╚═════════════════════════════════╝
 
 
