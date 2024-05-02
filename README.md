@@ -13,20 +13,6 @@
     
     <h2>Things I like to work in.</h2>
 
-      <div align="center">
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The only way to do great work is to love what you do." - Steve Jobs</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Innovation distinguishes between a leader and a follower." - Steve Jobs</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"You miss 100% of the shots you don't take." - Wayne Gretzky</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Life is what happens when you're busy making other plans." - John Lennon</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Believe you can and you're halfway there." - Theodore Roosevelt</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"Strive not to be a success, but rather to be of value." - Albert Einstein</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb</div>
-        <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">"Your time is limited, don't waste it living someone else's life." - Steve Jobs</div>
-     <hr>
-  </div>
-
   <hr>
 
   <div>
