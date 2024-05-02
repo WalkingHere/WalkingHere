@@ -9,7 +9,7 @@
     <p>I'm Walk.</p>
     <p>I enjoy pizza and pasta.</p>
     <p>Not very talkative.</p>
-
+ ╚═════════════════════════════════╝
 <div>
     <p>I'm Walk.</p>
     <p>I enjoy pizza and pasta.</p>
