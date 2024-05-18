@@ -1,5 +1,8 @@
-![](https://komarev.com/ghpvc/?username=WalkingHere&color=purple)
+# Welcome to My GitHub Profile
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=WalkingHere&color=blueviolet" alt="Profile views">
+</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Walk;i+miss+your+warm+hands;this+house+is+not+the+same;Without+you." alt="Typing SVG">
