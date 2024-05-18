@@ -1,10 +1,16 @@
+<p align="right">
+    ![](https://komarev.com/ghpvc/?username=walking_here&color=dc143c)
+</p>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Walk;i+miss+your+warm+hands;this+house+is+not+the+same;Without+you." alt="Typing SVG">
+</p>
 
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify Profile">
     </a>
+</p>
 
 <p align="center">
     <div style="display: flex; justify-content: center; gap: 20px;">
