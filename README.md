@@ -12,7 +12,7 @@
     </a>
 </p>
 
-# Stuff I like to work with
+<h2 align="center">Stuff I like to work with</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="margin: 0 10px;" />
