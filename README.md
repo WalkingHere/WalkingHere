@@ -11,7 +11,8 @@
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify Profile">
     </a>
 </p>
-═══════════════════════════════════════════════════════════════════════════
+
+# Stuff I like to work with
 <p align="center">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="margin: 0 10px;" />
