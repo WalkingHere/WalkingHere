@@ -13,12 +13,10 @@
 </p>
 ═══════════════════════════════════════════════════════════════════════════
 <p align="center">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-        <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
-    </div>
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" style="margin: 0 10px;" />
 </p>
