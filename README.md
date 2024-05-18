@@ -10,3 +10,9 @@
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </div>
+
+<p align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify Profile">
+    </a>
+</p>
