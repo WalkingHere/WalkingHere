@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=5505fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="Spotify Profile">
+        <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view   uid=c8lya3g7ynhox3r121bkof2p3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=5505fa&bar_color_cover=false)]" alt="Spotify Profile">
     </a>
 </p>
 
@@ -20,4 +20,5 @@
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=lua" alt="Python" style="margin: 0 10px;" />
 </p>
