@@ -20,5 +20,5 @@
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" style="margin: 0 10px;" />
-    <img src="https://skillicons.dev/icons?i=Python" alt="Python" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 10px;" />
 </p>
